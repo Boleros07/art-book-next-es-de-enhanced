@@ -2,17 +2,10 @@
 
 This fork just adds lots of custom collections for video game series, sports and genres.
 
-Video Game Series
------------------
-Addams Family
-Advance Wars
-Animal Crossing
-Batman
-Bomberman
-Castlevania
-Contra
-
-
+- `Video Game Series`
+   - Addams Family
+   - Advance Wars
+   - Animal Crossing
 
 
 
