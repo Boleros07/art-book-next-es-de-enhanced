@@ -1,3 +1,21 @@
+#Art Book Next (Enhanced)
+
+This fork just adds lots of custom collections for video game series, sports and genres.
+
+Video Game Series
+-----------------
+Addams Family
+Advance Wars
+Animal Crossing
+Batman
+Bomberman
+Castlevania
+Contra
+
+
+
+
+
 # Art Book Next (ES-DE Version)
 A simple theme for the version of EmulationStation used in [ES-DE](https://es-de.org/) v2.x.  
 *(If you are using ES-DE v1.x or earlier please download [this version](https://github.com/anthonycaccese/art-book-next-retropie) instead)*
