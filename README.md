@@ -6,8 +6,59 @@ This fork just adds lots of custom collections for video game series, sports and
    - Addams Family
    - Advance Wars
    - Animal Crossing
+   - Batman
+   - Bomberman
+   - Castlevania
+   - Contra
+   - Crash Bandicoot
+   - Devil May Cry
+   - Disney
+   - Donkey Kong
+   - Double Dragon
+   - Duke Nukem
+   - Earthbound
+   - Fatal Fury
+   - Final Fantasy
+   - F-Zero
+   - Grand Theft Auto
+   - Harry Potter
+   - Hulk
+   - Indiana Jones
+   - James Bond
+   - Kirby
+   - LEGO
+   - Mario
+   - Mario Kart
+   - Megaman
+   - Metal Gear Solid
+   - Metal Slug
+   - Metroid
+   - Phoenix Wright
+   - Pokemon
+   - Professor Layton
+   - Ratchet and Clank
+   - Rayman
+   - Simpsons
+   - Sly Cooper
+   - Sonic the Hedgehog
+   - Spiderman
+   - Spyro
+   - Star Trek
+   - Star Wars
+   - TMNT
+   - Wario
+   - X-Men
+   - Zelda
 
 
+- `Sports`
+  - Baseball
+  - Basketball
+  - Football
+  - Golf
+  - Hockey
+  - Soccer
+  - Tennis
 
 # Art Book Next (ES-DE Version)
 A simple theme for the version of EmulationStation used in [ES-DE](https://es-de.org/) v2.x.  
