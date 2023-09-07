@@ -1,6 +1,9 @@
-#Art Book Next (Enhanced)
+# Art Book Next (Enhanced)
 
 This fork just adds lots of custom collections for video game series, sports and genres.
+
+
+![Example Collections](https://github.com/Boleros07/art-book-next-es-de-enhanced/assets/117680182/a7b7bc1e-1d80-4d05-be90-c332fcc84b21)
 
 - `Video Game Series`
    - Addams Family
